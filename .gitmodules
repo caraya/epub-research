@@ -1,0 +1,6 @@
+[submodule "ahab"]
+	path = ahab
+	url = git://github.com/cmod/ahab.git
+[submodule "bibliotype"]
+	path = bibliotype
+	url = git://github.com/cmod/bibliotype.git

@@ -4,3 +4,9 @@
 [submodule "bibliotype"]
 	path = bibliotype
 	url = git://github.com/cmod/bibliotype.git
+[submodule "epub-boilerplate"]
+	path = epub-boilerplate
+	url = git://github.com/javierarce/epub-boilerplate.git
+[submodule "treesaver"]
+	path = treesaver
+	url = git://github.com/Treesaver/treesaver.git

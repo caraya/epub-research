@@ -10,3 +10,9 @@
 [submodule "treesaver"]
 	path = treesaver
 	url = git://github.com/Treesaver/treesaver.git
+[submodule "tools/html5lib"]
+	path = tools/html5lib
+	url = https://github.com/caraya/html5lib.git
+[submodule "epub-css-starter-kit"]
+	path = epub-css-starter-kit
+	url = git://github.com/mattharrison/epub-css-starter-kit.git

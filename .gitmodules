@@ -16,3 +16,6 @@
 [submodule "epub-css-starter-kit"]
 	path = epub-css-starter-kit
 	url = git://github.com/mattharrison/epub-css-starter-kit.git
+[submodule "CreateRSTBook"]
+	path = CreateRSTBook
+	url = https://github.com/mattharrison/CreateRSTBook.git
